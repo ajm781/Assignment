@@ -1,0 +1,24 @@
+
+
+      .varCancel{
+          border: none;
+          cursor: pointer;
+      }
+
+      .varCancel:hover{
+          background-color: red;
+      }
+
+      .varView{
+          border: none;
+          cursor: pointer;
+      }
+
+      .varView:hover{
+          background-color: lime;
+      }
+
+      .require{
+      color: #ff0000;
+      }
+

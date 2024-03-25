@@ -1,0 +1,22 @@
+.wrapper{ min-height: 100%; margin-bottom:-10px; }
+
+.footer, 
+.push{
+height: 50px;
+}
+
+       .wrap-flex{ display: flex; }
+
+       .wrap-flex > * {
+       width: 60%;
+       }
+
+       footer{
+       border-top: 3px solid #000;
+       border-bottom:3px solid #000;
+       }
+
+       body{
+       background-color: #2274C0;
+       }
+
